@@ -54,5 +54,5 @@ Este proyecto permite transcribir audios a texto usando el modelo Whisper de Ope
 1. Coloca tus audios en /audios
 2. Ejecuta:
    ```bash
-   - python transcribe.py
+   python transcribe.py
 3. Resultados en /output/*.html
