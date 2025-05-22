@@ -26,9 +26,16 @@ Este proyecto permite transcribir audios a texto usando el modelo Whisper de Ope
 ## ⚙️ Requisitos
 
 - Python 3.10 o superior
-- ffmpeg instalado y accesible en el PATH
+- ffmpeg instalado y accesible en el PATH, Recomendado con Chocolatey
 - Conexión a internet para instalar paquetes
 
+---
+
+## (Recomendado con Chocolatey):
+
+   ```bash
+   Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+   ```
 ---
 
 ## 🛠 Instalación
