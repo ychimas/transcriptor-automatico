@@ -1,6 +1,5 @@
 # Proyecto de Transcripción de Audio con Whisper
-
-![Whisper Logo](https://openai.com/research/whisper)  
+ 
 *Transcribe audios automáticamente con IA*
 
 Este proyecto permite transcribir audios a texto usando el modelo Whisper de OpenAI, generando archivos HTML con las transcripciones sincronizadas.
