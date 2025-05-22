@@ -33,7 +33,9 @@ Este proyecto permite transcribir audios a texto usando el modelo Whisper de Ope
 
 ## (Recomendado con Chocolatey):
 
-   ```bash
+### Powershell **como administrador**
+
+   ```powershell
    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
    ```
 ---
